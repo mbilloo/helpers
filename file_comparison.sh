@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Modified from:
+# https://askubuntu.com/questions/472075/how-can-i-compare-two-directories-recursively-and-check-if-one-of-the-directorie
+
 # cmp_dir - program to compare two directories
 
 # Check for required arguments
